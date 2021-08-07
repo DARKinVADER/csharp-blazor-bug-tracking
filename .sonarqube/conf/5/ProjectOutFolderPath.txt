@@ -1,1 +1,0 @@
-X:\GIT\csharp-blazor-bug-tracking\.sonarqube\out\5

@@ -1,4 +1,5 @@
 ﻿using BugTrackerUI;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ namespace BugTrackerUI.Services
 {
     public class BugService : IBugService
     {
-        private List<Bug> Bugs = new List<Bug>();
+        private readonly List<Bug> Bugs = new List<Bug>();
 
         public void AddBug(Bug newBug)
         {
