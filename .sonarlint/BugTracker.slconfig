@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000/",
+  "Organization": null,
+  "ProjectKey": "BugTracker",
+  "ProjectName": "BugTracker",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXrW_zvxO8CpUzFkySpf",
+      "ProfileTimestamp": "2021-07-24T05:31:29Z"
+    }
+  }
+}
